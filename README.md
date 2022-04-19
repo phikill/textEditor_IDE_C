@@ -5,7 +5,7 @@ L___| editor de texto baseado na interface grafica do
 ## Compilador
 L___| esse código tem problemas para compiladores atuais com esquemas que  
       não são aceitos pela ANSI de compiladores.   
-    |[Borland c/c++](https://en.wikipedia.org/wiki/Borland_C%2B%2B) | [MinGw](https://en.wikipedia.org/wiki/MinGW) | [Lattice C](https://en.wikipedia.org/wiki/Lattice_C) | [QuickC](https://en.wikipedia.org/wiki/QuickC) |  são compiladores com suporte.    
+    |[Borland c/c++](https://en.wikipedia.org/wiki/Borland_C%2B%2B) | [MinGw](https://en.wikipedia.org/wiki/MinGW) |  são compiladores com suporte.    
     
 # Adaptador BGI
     o programa importa o graphics.h para sistemas antigos 
