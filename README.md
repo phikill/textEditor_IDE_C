@@ -6,7 +6,7 @@ L___| esse código tem problemas para compiladores atuais com esquemas que
       não são aceitos pela ANSI de compiladores comandos velhos que podem ser adaptados.  
     |Borland c/c++ | MinGw | Lattice C | QuickC |são compiladores com suporte.    
     
-# Adaptaddor GNU
+# Adaptaddor BGI
     o programa importa o graphics.h para sistemas antigos 
     esse adaptador para ser executado em DOS porque sistemas atuais cria um erro
     BGI graphics not supported under Windows
