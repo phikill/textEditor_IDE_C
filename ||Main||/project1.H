@@ -42,7 +42,7 @@ window(1,1,80,1);
 textcolor(0);
 textbackground(WHITE);
 clrscr();
-cout<<"  ð   File  Edit  Search  Run  Compile  Debug  Project  Option   Window  Help   ";
+cout<<"  Ã°   File  Edit  Search  Run  Compile  Debug  Project  Option   Window  Help   ";
 
 //////////////////////////Window starts/////////////////////////////////
 window(1,2,80,24);
@@ -51,29 +51,29 @@ textbackground(BLUE);
 clrscr();
 textcolor(10);
 clrscr();
-cout<<"ÉÍÍÍ[þ]ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ C:SRZ.cpp ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ3Í[ ]ÍÍ»"<<endl;
-cout<<"º                                                                             "<<endl;
-cout<<"º								              °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             þ"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             °"<<endl;
-cout<<"º                                                                             "<<endl;
-cout<<"ÈÍÍÍ34:23ÍÍÍÍÍÍþ°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°ÄÙ"<<endl;
+cout<<"Ã‰ÃÃÃ[Ã¾]ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃ C:SRZ.cpp ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃ3Ã[ ]ÃÃÂ»"<<endl;
+cout<<"Âº                                                                             "<<endl;
+cout<<"Âº								              Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Ã¾"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             Â°"<<endl;
+cout<<"Âº                                                                             "<<endl;
+cout<<"ÃˆÃÃÃ34:23ÃÃÃÃÃÃÃ¾Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Â°Ã„Ã™"<<endl;
 
 
 window(1,25,80,25);
