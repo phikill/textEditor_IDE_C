@@ -1,4 +1,4 @@
-/*Muhammad Saqib,Zia Ur Rehman,Rizwan Iqbal.
+/*2008
 Project: Make an IDE for C Language*/
 #include<process.h>
 #include<string.h>
