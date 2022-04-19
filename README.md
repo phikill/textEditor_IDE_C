@@ -9,6 +9,6 @@ L___| esse código tem problemas para compiladores atuais com esquemas que
     
 # Adaptaddor GNU
     o programa importa o graphics.h para sistemas antigos 
-    esse adaptador para ser executado em DOS porque sistemas atuais dda o erro
+    esse adaptador para ser executado em DOS porque sistemas atuais cria um erro
     BGI graphics not supported under Windows
     Bgi graphics not supported in System
