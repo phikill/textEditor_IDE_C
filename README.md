@@ -8,12 +8,20 @@ L___| esse código tem problemas para compiladores atuais com esquemas que
     |[Borland c/c++](https://en.wikipedia.org/wiki/Borland_C%2B%2B) | [MinGw](https://en.wikipedia.org/wiki/MinGW) |  são compiladores com suporte.    
     
 # Adaptador BGI
+        O sistema de graficos da Borland Graphics Interface pode ser adaptado...
     o programa importa o graphics.h para sistemas antigos 
     esse adaptador para ser executado em DOS porque sistemas atuais cria um erro
     
     BGI graphics not supported under Windows
     BGI graphics not supported in System
     BGI graphics not ANSI compatible
+    
+    o código possui comandos que somente o compilador graphics.h da borland possui
+    caso queira compilar, deve ser em um sistema antigo 32x ou 16X
+    
+    O adaptador funciona, porem tem que adaptar os comandos para o grafico atual
+    o sistema de criação de janelas e até codígos mudam com a diferença de header
+    
     
 ### [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
 #### Ta mais o que o programa faz ?
