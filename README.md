@@ -13,6 +13,7 @@ L___| esse código tem problemas para compiladores atuais com esquemas que
     
     BGI graphics not supported under Windows
     BGI graphics not supported in System
+    BGI graphics not ANSI compatible
     
 ### [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
 #### Ta mais o que o programa faz ?
