@@ -24,7 +24,7 @@ L___| esse código tem problemas para compiladores atuais com esquemas que
     
     
 ### [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
-#### Ta mais o que o programa faz ?
+#### Ta mas o que o programa faz ?
 Este programa é escrito em linguagem de programação C pura. A interface do programa C é como a interface do compilador Turbo C/C++, e também fornece algumas caixas de diálogo como o compilador Turbo C/C++. Possui menus como o compilador C/C++, opções de formatação de texto e também oferece opções para alterar a cor da fonte.
 
 As caixas de diálogo são codificadas separadamente para que possam ser usadas em outro programa ou utilitário.
